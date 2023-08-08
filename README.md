@@ -4,12 +4,12 @@ This project simulates a Just a Bunch of Disks (JBOD) management system with cac
 Table of Contents
 
   Getting Started
-      - Prerequisites
-      - Installation
+    - Prerequisites
+    - Installation
   Usage
-      - Disk Operations
-      - Cache Operations
-      - Tester Script
+    - Disk Operations
+    - Cache Operations
+    - Tester Script
 
 ## Getting Started
 ### Prerequisites
@@ -35,7 +35,7 @@ gcc -o main mdadm.c cache.c -Wall
 ## Usage
 ### Disk Operations
 
-#### Mount: To mount the JBOD system.
+#### <ins>Mount</ins>: To mount the JBOD system.
 
 int mdadm_mount(void);
 
