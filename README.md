@@ -2,15 +2,6 @@
 
 This project simulates a Just a Bunch of Disks (JBOD) management system with cache functionality. The project allows you to perform operations like mounting, unmounting, reading, and writing, alongside cache management tasks like creation, destruction, lookup, update, and insertion.
 
-##Table of Contents
-##Getting Started
-###Prerequisites
-###Installation
-##Usage
-###Disk Operations
-###Cache Operations
-###Tester Script
-
 ## Getting Started
 ### Prerequisites
 
